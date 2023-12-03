@@ -9,7 +9,7 @@ class product
 
 	 public function book()
 	{
-	  return "Book price is : ".$this->price ; 
+	  return "Book price is = ".$this->price ; 
 
 	}
 
