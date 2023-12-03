@@ -16,7 +16,7 @@ class circle implements shape
 
     public function calcArea()
     {
-      echo "area of circle is =  ".$this->radius * $this->radius * 3.14; 
+      echo "area of circle is :  ".$this->radius * $this->radius * 3.14; 
     } 
 
 }
